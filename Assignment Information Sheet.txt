@@ -1,0 +1,68 @@
+
+
+CS 0401 Assignment Information Sheet
+
+ 
+
+You must submit an information sheet with every assignment. Also be sure to submit all materials following the procedures described on the submission procedures page.
+
+Name:______Pete Giardiniere___________ Assignment #: 1
+
+Lab Day and Time: ___Mondays 11:30____
+
+Lab Instructor: _____Karin Cox________
+
+Program Due Date: ___8/1/16 (late due)
+
+Handed in Date: _____8/1/16___________ 
+
+Source code file name(s):
+Assig4.java   BallotInterface.java    BallotItem.java
+________________________________________________________________
+BetterBallot.java      SimpleBallot.java    Voter.java
+________________________________________________________________
+
+Compiled (.class) file name(s) : __________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Other file name(s) (if relevant): ______________________________
+admin.txt     ballots.txt     voters.txt
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program compile without error?: __YES________ 
+
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: __YES________ 
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
+
+Note that # of voters is tracked, i.e. once all voters have filled ballots continueVoting() automatically proceeds to finalize()
+
+________________________________________________________________
+Also note: Must hit Enter 2x (With SimpleBallot as an argument of course) to make simpleballot to run
+________________________________________________________________
+
+________________________________________________________________
+
